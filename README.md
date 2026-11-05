@@ -5,7 +5,7 @@ José Fernando Guarin M., Ph.D. · Profesor Asociado
 
 https://josefernandoguarin.github.io/FormuladorMinCost/
 
-https://github.com/JoseFernandoGuarin/FormuladorMinCost/blob/main/Formulador-Lechero-FCA-Manual.pdf
+https://josefernandoguarin.github.io/FormuladorMinCost/Formulador-Lechero-FCA-Manual.pdf
 
 Aplicación web para formular raciones de ganado de leche a **mínimo costo** con programación lineal. Es un solo archivo HTML: no necesita instalación, servidor ni conexión a internet.
 
